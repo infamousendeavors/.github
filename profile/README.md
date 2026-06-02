@@ -12,7 +12,7 @@ changes. The person behind it doesn't.
 |---|---|
 | [Lunch Money MCP](https://lunchmoney.infamousendeavors.com) | MCP server for the Lunch Money API. Ask your agent how much you actually spent on coffee. |
 | JobSite | Concrete calculator for the field. Built for the guy in boots, not the guy in a spreadsheet. |
-| PDF Split & Merge | Split and merge PDFs entirely on your phone. Nothing leaves your device. |
+| [PDF Split & Merge](https://pdfsplitmerge.infamousendeavors.com/) | Split and merge PDFs entirely on your phone. Nothing leaves your device. |
 
 ## How we build
 
